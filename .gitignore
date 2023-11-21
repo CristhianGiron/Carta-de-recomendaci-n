@@ -1,0 +1,18 @@
+# Archivos y directorios generados por LaTeX
+*.log
+*.aux
+*.out
+*.toc
+*.gz
+*.pdf
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.xdv
+*.bbl
+*.bcf
+*.blg
+
+# Directorios generados por LaTeX
+_build
+.vscode/
